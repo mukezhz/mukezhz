@@ -43,7 +43,7 @@ I'm Mukesh , currently an undergraduate student at [Pokhara University](http://w
   <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/react.svg"> &nbsp; &nbsp; 
 <br/> 
 
-[![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=adarshaacharya&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=mukezhz&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mukezhz.mukezhz&title=Profile%20views) 
