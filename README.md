@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 
 # [Mukesh Kr. Chaudhary](http://mukeshkchaudhary.com.np/) 👨‍💻
-[![Twitter Badge](https://img.shields.io/badge/-@aadarshatweets-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mukezhz)](https://twitter.com/mukezhz) [![Linkedin Badge](https://img.shields.io/badge/-mukezhz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukezhz/)](https://www.linkedin.com/in/mukezhz/)
+[![Twitter Badge](https://img.shields.io/badge/-@mukezhz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mukezhz)](https://twitter.com/mukezhz) [![Linkedin Badge](https://img.shields.io/badge/-mukezhz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukezhz/)](https://www.linkedin.com/in/mukezhz/)
 [![GitHub Badge](https://img.shields.io/badge/-@mukezhz-%23181717?style=flat-square&logo=github)](https://github.com/mukezhz)
 [![Gmail Badge](https://img.shields.io/badge/-mukezhz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mukezhz@gmail.com)](mailto:mukezhz@gmail.com)
-[![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=adarshaacharya.com.np&url=http%3A%2F%2Fadarshaacharya.com.np%2F)](http://mukeshkchaudhary.com.np)
+[![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=mukeshkchaudhary.com.np&url=http%3A%2F%2Fmukeshkchaudhary.com.np%2F)](http://mukeshkchaudhary.com.np)
 ---
 
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Hi there <img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/wave.gif" width="27px">,
 
-I'm Aadarsha Acharya, currently an undergraduate student at [Tribhuvan University](http://www.tribhuvan-university.edu.np/), pursuing bachelor's degree majoring in computer science. I'm passionate about backend and frontend technologies. I also love contributing to open source.
+I'm Mukesh , currently an undergraduate student at [Pokhara University](http://www.pu.edu.np/), pursuing bachelor's degree majoring in BEIT. I'm passionate about backend and frontend technologies. I also love contributing to open source.
 
 
 
