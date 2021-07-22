@@ -71,28 +71,30 @@
         <img alt="Mukezhz's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=mukezhz&show_icons=true&theme=radical" />
         <br>
-        <!-- Social Links -->
-        <p>Find me on</p>
-        <!-- Gmail -->
-        <a href="mailto:mukezhz@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Twitter -->
-        <a href="https://www.twitter.com/mukezhz/" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/-Twitter-1877F2?style=flat-square&logo=Twitter&logoColor=white">
-        </a>
-        <!-- Facebook -->
-        <a href="https://www.facebook.com/mukezhz/" target="_blank"><img alt="Facebook"
-                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
-        </a>
-        <!-- Instagram -->
-        <a href="https://www.instagram.com/mukezhz/" target="_blank"><img alt="Instagram"
-                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/mukezhz/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
+        <h3 align="center">Find me on</h3>
+        <!-- Social Links -->        
+        <p align="center">
+                <!-- Gmail -->
+                <a href="mailto:mukezhz@gmail.com" target="_blank"><img alt="Gmail"
+                        src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+                </a>
+                <!-- Twitter -->
+                <a href="https://www.twitter.com/mukezhz/" target="_blank"><img alt="Twitter"
+                        src="https://img.shields.io/badge/-Twitter-1877F2?style=flat-square&logo=Twitter&logoColor=white">
+                </a>
+                <!-- Facebook -->
+                <a href="https://www.facebook.com/mukezhz/" target="_blank"><img alt="Facebook"
+                        src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
+                </a>
+                <!-- Instagram -->
+                <a href="https://www.instagram.com/mukezhz/" target="_blank"><img alt="Instagram"
+                        src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+                </a>
+                <!-- Linkedin -->
+                <a href="https://www.linkedin.com/in/mukezhz/" target="_blank"><img alt="Linkedin"
+                        src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+                </a>
+        </p>
     </p>
 </details>
 <br>
