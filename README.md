@@ -1,51 +1,104 @@
-### Hi there 👋
+<!-- https://github.com/mukezhz/ -->
+<!-- July 22, 2021 -->
+<!-- leave a STAR, if you like it ! -->
 
-<!--
-**mukezhz/mukezhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views Counter -->
+![Profile views](https://gpvc.arturio.dev/mukezhz?v=3)
 
-Here are some ideas to get you started:
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hello World!, I am
+                <b><a target="_blank" href="https://mukesh.name.np/">Mukesh Chaudhary</a></b>
+        </samp>
+</h3>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-# [Mukesh Kr. Chaudhary](http://mukeshkchaudhary.com.np/) 👨‍💻
-[![Twitter Badge](https://img.shields.io/badge/-@mukezhz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mukezhz)](https://twitter.com/mukezhz) [![Linkedin Badge](https://img.shields.io/badge/-mukezhz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mukezhz/)](https://www.linkedin.com/in/mukezhz/)
-[![GitHub Badge](https://img.shields.io/badge/-@mukezhz-%23181717?style=flat-square&logo=github)](https://github.com/mukezhz)
-[![Gmail Badge](https://img.shields.io/badge/-mukezhz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mukezhz@gmail.com)](mailto:mukezhz@gmail.com)
-[![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=mukeshkchaudhary.com.np&url=http%3A%2F%2Fmukeshkchaudhary.com.np%2F)](http://mukeshkchaudhary.com.np)
----
-
-
-<p>
- <img align="right" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/programmer.gif" width="310px alt="programmergif">
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「 From Kathmandu, Nepal 」
+                <br>
+                「 Student, Information Technology & Engineering @<b> Pokhara University</b> 」
+                <br>
+                <br>
+        </samp>
+        <!-- Programming Languages -->
+        <!-- Code logo -->
+        <a href="https://github.com/mukezhz?tab=repositories" target="_blank"><img alt="Code"
+                        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
+        </a>
+        <!-- HTML -->
+        <a href="https://github.com/mukezhz?tab=repositories" target="_blank"><img alt="HTML"
+                        src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+        </a>
+        <!-- CSS  -->
+        <a href="https://github.com/mukezhz?tab=repositories" target="_blank"><img alt="CSS"
+                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+        </a>
+        <!-- JavaScript -->
+        <a href="https://github.com/mukezhz?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        </a>
+        <!-- Python -->
+        <a href="https://github.com/mukezhz?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+        </a>
+        <!-- C++ -->
+        <a href="https://github.com/mukezhz?tab=repositories" target="_blank"><img alt="C++"
+                        src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
+        </a> 
 </p>
+<!-- Frameworks -->
+<p>
+        <!-- Django -->
+        <a href="https://github.com/mukezhz?tab=repositories" target="_blank"><img alt="Django"
+                        src="https://img.shields.io/badge/-Django-3776AB?style=flat-square&logo=Django&logoColor=white">
+        </a>
+        <!-- Vue -->
+        <a href="https://github.com/mukezhz?tab=repositories" target="_blank"><img alt="VueJs"
+                        src="https://img.shields.io/badge/-VueJS-success?style=flat-square&logo=Vue&logoColor=white">
+        </a>
+</p>
+<!-- Details Section-->
+<details align="center">
+    <summary> <samp>&#9776; Read More</samp></summary>
+    <p align="center">
+        <br>
+        <!-- Activity Widget -->
+        <img alt="Mukezhz's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=mukezhz&show_icons=true&theme=radical" />
+        <br>
+        <!-- Social Links -->
+        <p>Find me on</p>
+        <!-- Gmail -->
+        <a href="mailto:mukezhz@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        <!-- Twitter -->
+        <a href="https://www.twitter.com/mukezhz/" target="_blank"><img alt="Twitter"
+                src="https://img.shields.io/badge/-Twitter-1877F2?style=flat-square&logo=Twitter&logoColor=white">
+        </a>
+        <!-- Facebook -->
+        <a href="https://www.facebook.com/mukezhz/" target="_blank"><img alt="Facebook"
+                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
+        </a>
+        <!-- Instagram -->
+        <a href="https://www.instagram.com/mukezhz/" target="_blank"><img alt="Instagram"
+                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+        </a>
+        <!-- Linkedin -->
+        <a href="https://www.linkedin.com/in/mukezhz/" target="_blank"><img alt="Linkedin"
+                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+    </p>
+</details>
+<br>
 
-
-## Hi there <img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/wave.gif" width="27px">,
-
-I'm Mukesh , currently an undergraduate student at [Pokhara University](http://www.pu.edu.np/), pursuing bachelor's degree majoring in BEIT. I'm passionate about backend and frontend technologies. I also love contributing to open source.
-
-
-
-### 🛠 Languages and Tools 
-  <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/javascript.svg"> &nbsp; &nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/typescript.svg"> &nbsp; &nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/nodejs.svg"> &nbsp; &nbsp;
-  <img height="30" src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/react.svg"> &nbsp; &nbsp; 
-<br/> 
-
-[![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=mukezhz&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
----
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mukezhz.mukezhz&title=Profile%20views) 
-
- <img src="https://raw.githubusercontent.com/adarshaacharya/adarshaacharya/master/assets/developer.gif" width="30px"> Checkout my [website](http://mukeshkchaudhary.com.np) for more details. 
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
