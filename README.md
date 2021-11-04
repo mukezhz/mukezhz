@@ -57,6 +57,10 @@
         <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django"
                         src="https://img.shields.io/badge/-Django-3776AB?style=flat-square&logo=Django&logoColor=white">
         </a>
+        <!-- Reactjs -->
+        <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django"
+                        src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=React&logoColor=light-blue">
+        </a>
         <!-- Vue -->
         <a href="https://v3.vuejs.org/" target="_blank"><img alt="VueJs"
                         src="https://img.shields.io/badge/-VueJS-success?style=flat-square&logo=Vite&logoColor=white">
