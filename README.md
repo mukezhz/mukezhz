@@ -111,3 +111,7 @@
         "Happy Coding 👨‍💻!"
     </p>
 </samp>
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/mukezhz/count.svg" alt ="Loading">
