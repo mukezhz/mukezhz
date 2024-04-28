@@ -19,12 +19,9 @@ Software Engineer from Nepal🇳🇵. Exploring the technology.
 - **Testing Tool**: Cypress
 - **Misc**: webRTC, Git, Vim, Emacs, Vscode, Intellij,
 
-
-#### 🌐 My Language Stats
-<img alt="Language Stats" height="200" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukezhz&layout=compact&langs_count=6&theme=graywhite&hide=jupyter%20notebook"/>
-
-#### 🗓 My GitHub Card
-<img alt="Github Stats" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=mukezhz&show_icons=true&include_all_commits=true&hide_rank=false&hide=contribs">
+| My GitHub Card | My Language Stats |
+| --- | --- |
+|<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mukezhz&show_icons=true&include_all_commits=true&hide_rank=false&hide=contribs">|<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukezhz&layout=compact&langs_count=6&theme=graywhite&hide=jupyter%20notebook"/>|
 
 
 <img align="left" src = "https://profile-counter.glitch.me/mukezhz/count.svg" alt ="Loading">
