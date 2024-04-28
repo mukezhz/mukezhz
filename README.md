@@ -17,7 +17,8 @@ Software Engineer from Nepal🇳🇵. Exploring the technology.
 - **Database**: Mysql, Postgresql, ScyllaDB, MongoDB, DynamoDB
 - **Messaging System**: NATs, Kafka, Rabbitmq
 - **Testing Tool**: Cypress
-- **Misc**: webRTC, Git, Vim, Emacs, Vscode, Intellij,
+- **Misc**: webRTC, Git,
+- **Text Editor**: Vim, Emacs, Vscode, Intellij
 
 | My GitHub Card | My Language Stats |
 | --- | --- |
