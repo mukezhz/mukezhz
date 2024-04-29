@@ -9,6 +9,7 @@ Software Engineer from Nepal🇳🇵. Exploring the technology.
 - [Integrating gRPC with REST for Enhanced Web Development 🤝](https://articles.wesionary.team/integrating-grpc-with-rest-for-enhanced-web-development-18a66fcebd9d)
 - [Bruno | A better API client for developers](https://articles.wesionary.team/bruno-a-better-api-client-for-developers-38b8c7d1d0de)
 - [Gen-G | A flexible go lang project generator](https://articles.wesionary.team/gen-g-31c3ed7e1e4f)
+- For more blog: [medium](https://mukezhz.medium.com) | [portfolio](https://mukesh.name.np/blog)
 
 ### 🥳 Skills
 
