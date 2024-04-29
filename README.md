@@ -17,8 +17,14 @@ Software Engineer from Nepal🇳🇵. Exploring the technology.
 - **Database**: Mysql, Postgresql, ScyllaDB, MongoDB, DynamoDB
 - **Messaging System**: NATs, Kafka, Rabbitmq
 - **Testing Tool**: Cypress
-- **Misc**: webRTC, Git,
+- **Misc**: webRTC, Git
 - **Text Editor**: Vim, Emacs, Vscode, Intellij
+
+### 🤝 Let's Connect
+
+| LinkedIn | Twitter | Instagram | Facebook | Telegram |
+| --- | --- | --- | --- | --- |
+| [mukezhz](https://linkedin.com/in/mukezhz) | [mukezhz](https://x.com/mukezhz) | [mukezhz](https://instagram.com/mukezhz) | [mukezhz](https://facebook.com/mukezhz) | [mukezhz](https://t.me/mukezhz) |
 
 | My GitHub Card | My Language Stats |
 | --- | --- |
