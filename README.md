@@ -22,9 +22,9 @@ Software Engineer from Nepal🇳🇵. Exploring the technology.
 
 ### 🤝 Let's Connect
 
-| LinkedIn | Twitter | Instagram | Facebook | Telegram |
-| --- | --- | --- | --- | --- |
-| [mukezhz](https://linkedin.com/in/mukezhz) | [mukezhz](https://x.com/mukezhz) | [mukezhz](https://instagram.com/mukezhz) | [mukezhz](https://facebook.com/mukezhz) | [mukezhz](https://t.me/mukezhz) |
+| LinkedIn | Twitter | Instagram | Facebook | Telegram | Medium |
+| --- | --- | --- | --- | --- | --- |
+| [mukezhz](https://linkedin.com/in/mukezhz) | [mukezhz](https://x.com/mukezhz) | [mukezhz](https://instagram.com/mukezhz) | [mukezhz](https://facebook.com/mukezhz) | [mukezhz](https://t.me/mukezhz) | [mukezhz](https://mukezhz.medium.com) |
 
 | My GitHub Card | My Language Stats |
 | --- | --- |
