@@ -1,0 +1,11 @@
+{
+  "name": "mukezhz",
+  "version": "1.0.0",
+  "description": "mukezhz readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukesh Kumar Chaudhary <mukezhz@gmail.com>",
+  "license": "MIT"
+}

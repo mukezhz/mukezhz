@@ -1,0 +1,31 @@
+name: Update README with Latest Blog Posts
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: setup node
+        uses: actions/setup-node@v2
+        with:
+          node-version: '21.x'
+      - name: cache
+        uses: actions/cache@v2
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Generate README file
+        run: node index.js
+      - name: Commit changes
+        run: |
+          git config --local user.email "mukezhz@gmail.com"
+          git config --local user.name "mukezhz"
+          git add README.md
+          git commit -m "Update README with latest blog titles" -a || echo "No changes to commit"
+          git push
