@@ -1,6 +1,9 @@
 name: Update README with Latest Blog Posts
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 * * * *'
 
