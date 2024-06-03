@@ -8,6 +8,7 @@ Software Engineer from Nepal🇳🇵. Exploring the technology.
 
 ### 👨‍💻 My Blog Posts
 
+- [gocron | Schedule your task using golang](https://articles.wesionary.team/gocron-schedule-your-task-using-golang-4b110d6ec862?source=rss-9b846a86b10c------2)
 - [git worktree | Enhance your development with git](https://articles.wesionary.team/git-worktree-enhance-your-development-with-git-5434599d720d?source=rss-9b846a86b10c------2)
 - [Integrating gRPC with REST for Enhanced Web Development](https://articles.wesionary.team/integrating-grpc-with-rest-for-enhanced-web-development-18a66fcebd9d?source=rss-9b846a86b10c------2)
 - [Bruno | A better API client for developers](https://articles.wesionary.team/bruno-a-better-api-client-for-developers-38b8c7d1d0de?source=rss-9b846a86b10c------2)
