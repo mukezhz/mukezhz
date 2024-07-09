@@ -32,9 +32,9 @@ Software Engineer from Nepal🇳🇵. Exploring the technology.
 | --- | --- | --- | --- | --- | --- |
 | [mukezhz](https://linkedin.com/in/mukezhz) | [mukezhz](https://x.com/mukezhz) | [mukezhz](https://instagram.com/mukezhz) | [mukezhz](https://facebook.com/mukezhz) | [mukezhz](https://t.me/mukezhz) | [mukezhz](https://mukezhz.medium.com) |
 
-| My GitHub Card | My Language Stats |
+| My Language Stats | My GitHub Stats | 
 | --- | --- |
-|<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=mukezhz&show_icons=true&include_all_commits=true&hide_rank=false&hide=contribs">|<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukezhz&layout=compact&langs_count=6&theme=graywhite&hide=jupyter%20notebook"/>|
+| <img src="https://github-readme-stats.vercel.app/api?username=mukezhz"/>|<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukezhz&layout=compact&langs_count=6&theme=graywhite&hide=jupyter%20notebook"/>|
 
 
 <img align="left" src = "https://profile-counter.glitch.me/mukezhz/count.svg" alt ="Loading">
