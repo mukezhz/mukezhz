@@ -18,13 +18,12 @@ Software Engineer from Nepal🇳🇵. Exploring the technology.
 
 ### 🥳 Skills
 
-- **Web**: gin[Golang], Express/NestJS[Node Js], Micronaut[Java], Django/Flask[Python], React, Vue, Svelte 
-- **DevOps**: Kubernetes, Docker, GitFlux, Linux, github actions(CICD)
+- **Languages**: Golang, JS/TS, Java, Python
+- **DevOps**: Kubernetes, Docker, Linux, github actions(CICD)
 - **Database**: Mysql, Postgresql, ScyllaDB, MongoDB, DynamoDB
 - **Messaging System**: NATs, Kafka, RabbitMQ
-- **Testing Tool**: Cypress
-- **Misc**: webRTC, Git
-- **Text Editor**: Vim, Emacs, VsCode, Intellij
+- **Testing Tool**: cypress
+- **Misc**: webRTC, git
 
 ### 🤝 Let's Connect
 
